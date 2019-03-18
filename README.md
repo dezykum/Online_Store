@@ -17,7 +17,10 @@ DELETE	/:id  Detete order
 PUT /:id update the product field
 
 Installation and Run:
+
 $ git clone  https://github.com/dezykum/Online_Store 
+
+Enter folder: cd server
 
 $ npm install
 
