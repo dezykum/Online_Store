@@ -15,3 +15,11 @@ GET	/api/orders	 get Order details
 DELETE	/:id  Detete order 
 
 PUT /:id update the product field
+
+Installation and Run:
+$ git clone  https://github.com/dezykum/Online_Store 
+
+$ npm install
+
+$ node server.js
+
