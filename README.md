@@ -14,7 +14,7 @@ GET	/api/orders	 get Order details
 
 DELETE	/:id  Detete order 
 
-PUT /:id update the product field
+PUT /:id  update the product field
 
 Installation and Run:
 
@@ -25,4 +25,10 @@ Enter folder: cd server
 $ npm install
 
 $ node server.js
+
+Database
+
+Nodejs-Online-Store uses a MongoDB for storing all the data. Setting of the database connection is done through the 
+
+command line : \Users\dezy.kumari\database\mongodb\bin\mongod.exe  --dbpath=\Users\dezy.kumari\database\mongodb-data
 
