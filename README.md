@@ -1,6 +1,6 @@
 # Online_Store
 Node.js API for online store
-Online Store-rest-api is an authenticated rest api which supports CRUD operation of products and sellers.
+Online Store-rest-api is an authenticated rest api which supports CRUD operation of products and orders.
 
 Endpoints
 
