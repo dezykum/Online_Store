@@ -8,7 +8,7 @@ HTTP	Path	Action	Used for
 
 GET	/api/products	 get Product details
 
-POST	/(id of particular product which you want to buy)	 Order successfully placed
+POST	/:id (id of particular product which you want to buy)	with req.body field //Order successfully placed
 
 GET	/api/orders	 get Order details
 
