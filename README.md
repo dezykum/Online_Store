@@ -6,15 +6,15 @@ Endpoints
 
 HTTP	Path	Action	Used for
 
-GET	/api/products	 get Product details
+GET	/api/products	   get Product details
 
-POST	/:id (id of particular product which you want to buy)	with req.body field //Order successfully placed
+POST	/:id      (id of particular product which you want to buy)	with req.body field //Order successfully placed
 
-GET	/api/orders	 get Order details
+GET	/api/orders	    get Order details
 
-DELETE	/:id  Detete order 
+DELETE	/:id     Detete order 
 
-PUT /:id  update the product field
+PUT /:id       update the product field
 
 Installation and Run:
 
